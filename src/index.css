@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-logo: "Asimovian", sans-serif; 
+}
+@theme {
+  --font-body: "Cairo", sans-serif;
+}
+
+/* Center the dots */
+.slick-dots {
+  bottom: -32px !important; /* move dots further below the cards */
+}
+
+/* Adjust dot size & spacing */
+.slick-dots li {
+  margin: 0 4px;
+  width: 10px;
+  height: 10px;
+}
+
+/* Dot color */
+.slick-dots li button:before {
+  font-size: 10px;
+  color: #000; /* black */
+  opacity: 0.4;
+}
+
+/* Active dot */
+.slick-dots li.slick-active button:before {
+  color: #000;
+  opacity: 1;
+}

@@ -1,0 +1,161 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Jawan",
+      "type": "Movie",
+      "date": "2025-09-10",
+      "cast": "Shah Rukh Khan, Nayanthara, Vijay Sethupathi",
+      "director": "Atlee",
+      "description": "An action-packed thriller where a mysterious man sets out to right the wrongs of society with high-octane stunts, powerful emotions, and gripping drama that will keep audiences on the edge of their seats.",
+      "image": "/assets/jawan.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Leo",
+      "type": "Movie",
+      "date": "2025-09-15",
+      "cast": "Vijay, Trisha Krishnan, Sanjay Dutt",
+      "director": "Lokesh Kanagaraj",
+      "description": "A café owner’s mysterious past resurfaces, dragging him into a violent world of crime and vengeance. Packed with intense action and unexpected twists, Leo is a battle between morality and survival.",
+      "image": "/assets/leo.jpg"
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "type": "Movie",
+      "date": "2025-09-18",
+      "cast": "Ram Charan, Jr. NTR, Alia Bhatt",
+      "director": "S. S. Rajamouli",
+      "description": "An epic tale of two revolutionaries who fight against the British Raj while testing their unbreakable bond of friendship. With breathtaking visuals, heart-pounding action, and unforgettable music, RRR is a cinematic spectacle.",
+      "image": "/assets/rrr.jpg"
+    },
+    {
+      "id": 4,
+      "title": "KGF: Chapter 2",
+      "type": "Movie",
+      "date": "2025-09-20",
+      "cast": "Yash, Sanjay Dutt, Raveena Tandon",
+      "director": "Prashanth Neel",
+      "description": "Rocky rises as a feared leader while battling deadly enemies and striving to maintain his empire at Kolar Gold Fields. A saga of power, betrayal, and survival with larger-than-life action sequences.",
+      "image": "/assets/kgf-chapter-2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pushpa 2: The Rule",
+      "type": "Movie",
+      "date": "2025-09-25",
+      "cast": "Allu Arjun, Rashmika Mandanna, Fahadh Faasil",
+      "director": "Sukumar",
+      "description": "Pushpa returns stronger than ever as he takes on new rivals and asserts his dominance over the red sandalwood empire. With fiery dialogues, thrilling action, and raw emotions, The Rule continues Pushpa’s legendary rise.",
+      "image": "/assets/pushpa-the-rule--part-2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pathaan",
+      "type": "Movie",
+      "date": "2025-09-28",
+      "cast": "Shah Rukh Khan, Deepika Padukone, John Abraham",
+      "director": "Siddharth Anand",
+      "description": "A spy embarks on a dangerous mission to save India from a deadly private terror group planning mass destruction. Featuring breathtaking stunts, exotic locations, and stylish action, Pathaan redefines spy thrillers.",
+      "image": "/assets/pathaan.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Baahubali: The Beginning",
+      "type": "Movie",
+      "date": "2025-09-30",
+      "cast": "Prabhas, Rana Daggubati, Anushka Shetty",
+      "director": "S. S. Rajamouli",
+      "description": "A young man learns about his royal heritage and sets out on an epic journey to reclaim his father’s kingdom. A story of bravery, betrayal, and destiny with jaw-dropping visuals and a grand musical score.",
+      "image": "/assets/baahubali-the-beginning.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Baahubali: The Conclusion",
+      "type": "Movie",
+      "date": "2025-10-02",
+      "cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah",
+      "director": "S. S. Rajamouli",
+      "description": "The breathtaking conclusion to an epic saga, revealing why Kattappa killed Baahubali and the final battle for the throne. A cinematic masterpiece of emotions, action, and grandeur.",
+      "image": "/assets/baahubali-2-the-conclusion.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Vikram",
+      "type": "Movie",
+      "date": "2025-10-05",
+      "cast": "Kamal Haasan, Vijay Sethupathi, Fahadh Faasil",
+      "director": "Lokesh Kanagaraj",
+      "description": "A retired cop is pulled back into the shadows to fight against ruthless gangs and uncover hidden truths. With stylish filmmaking and thrilling action, Vikram blends raw intensity with gripping storytelling.",
+      "image": "/assets/vikram.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Master",
+      "type": "Movie",
+      "date": "2025-10-08",
+      "cast": "Vijay, Vijay Sethupathi, Malavika Mohanan",
+      "director": "Lokesh Kanagaraj",
+      "description": "A charismatic professor is sent to a juvenile school where he clashes with a ruthless gangster exploiting the children. A mix of mass entertainment, gripping action, and powerful performances.",
+      "image": "/assets/master.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Chennai Food Festival",
+      "type": "Event",
+      "date": "2025-09-14",
+      "time": "11:00 AM",
+      "location": "Marina Beach, Chennai",
+      "host": "Taste of Chennai",
+      "description": "Indulge in authentic Chennai street food and local delicacies by the beach with live music and fun activities. From spicy chaats to sizzling grills, this food festival is a paradise for foodies.",
+      "image": "/assets/food-festival.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar Workshop",
+      "type": "Event",
+      "date": "2025-09-03",
+      "time": "04:00 PM",
+      "location": "Adyar, Chennai",
+      "host": "Strings Academy",
+      "description": "Hands-on guitar basics for beginners in a friendly environment with expert guidance and interactive practice. Perfect for those who’ve always wanted to strum their first song and build confidence.",
+      "image": "/assets/guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Indie Band Night",
+      "type": "Event",
+      "date": "2025-09-18",
+      "time": "08:00 PM",
+      "location": "Phoenix Marketcity, Chennai",
+      "host": "Chennai Indie Collective",
+      "description": "Experience electrifying performances by Chennai’s emerging indie bands with food, drinks, and non-stop music. A vibrant evening that celebrates the city’s underground music culture.",
+      "image": "/assets/Indie-Band.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Chess Tournament",
+      "type": "Event",
+      "date": "2025-09-16",
+      "time": "09:00 AM",
+      "location": "T. Nagar, Chennai",
+      "host": "Chennai Chess Club",
+      "description": "Compete in an exciting chess tournament with prizes, trophies, and a chance to meet fellow chess enthusiasts. A day of strategy, focus, and fun for players of all skill levels.",
+      "image": "/assets/chess.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bird Watching Morning",
+      "type": "Event",
+      "date": "2025-09-06",
+      "time": "06:30 AM",
+      "location": "Pallikaranai Marsh, Chennai",
+      "host": "Nature Explorers",
+      "description": "Spot rare bird species with expert naturalists while exploring the serene marshlands of Pallikaranai. A peaceful morning activity for nature lovers, photographers, and explorers.",
+      "image": "/assets/birds.jpg"
+    }
+  ]
+}
