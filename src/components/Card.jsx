@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = ({ image }) => {
   return (
-    <div className="relative drop-shadow-xl w-64 sm:w-72 md:w-80 h-64 sm:h-80 md:h-[520px] overflow-hidden rounded-2xl bg-[#3d3c3d]">
+    <div className="relative drop-shadow-xl w-64 sm:w-72 md:w-80 h-80 sm:h-80 md:h-[520px] overflow-hidden rounded-2xl bg-[#3d3c3d]">
       {/* Image */}
       <img
         src={image}
