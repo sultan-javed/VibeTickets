@@ -1,12 +1,28 @@
-# React + Vite
+# 🎟️ VibeTickets – Frontend Event & Movie Ticket Booking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VibeTickets is a **frontend-only web application** that simulates a modern movie & event ticket-booking platform.  
+It was inspired by popular services like BookMyShow and District.  
+A local **mock JSON API** is used to provide movie and event data, letting you experience the booking flow without a real backend.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎬 **Browse Movies & Events** – Dynamic listings from a local mock API.
+- 🎟️ **Seat Selection Flow** – Simple, accessible seat-booking interface.
+- 📱 **Responsive UI** – Fully optimized for mobile, tablet, and desktop.
+- ⚡ **Fast Development** – Built with Vite for blazing-fast dev & build times.
+- 🧭 **Routing** – Page navigation with React Router.
+- 🎨 **Modern UI/UX** – Clean Tailwind CSS design inspired by real-world booking apps.
+
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 19, Vite
+- **Styling:** Tailwind CSS v4, custom fonts
+- **State & Hooks:** React Context API, React Hooks (useState, useEffect, etc.)
+- **Routing:** React Router
+- **Mock API:** Local JSON file serving as backend
+- **Deployment:** Vercel
+
